@@ -1,0 +1,14 @@
+Name:
+(^[A-Z][a-z]+)\s([A-Z][a-z]+)
+
+E-mail:
+[\S+@\S+]
+
+college mail:
+[\S+@kitsw\S+]
+
+Mobile no.:
+\+?\d[\d -]{8,12}\d
+
+Address:
+([0-9]+\s)([A-Z][a-z]+\s[A-Za-z\.\,\s]+)([0-9]+)
